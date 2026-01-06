@@ -9,3 +9,6 @@ This project implements image generation based on DDPM and also demonstrates MNI
 `test_clip.py` is used to test CLIP's classification capabilities on MNIST data.
 The specific model architecture code for the diffusion model is located in `src\diffusion`.
 The environment configuration file required for all the code is `environment.yml`.
+
+ref：
+https://github.com/juraam/stable-diffusion-from-scratch/tree/main
