@@ -20,7 +20,6 @@ The environment configuration file required for all code is `environment.yml`.
 1. Install the environment:
 ```bash
 conda env create -f environment.yml
-conda activate ddpm-mnist
 ```
 
 2. Train the models:
